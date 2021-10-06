@@ -1,1 +1,1 @@
-Sitemap: https://blog.gradsflow.com/blog/sitemap.xml
+Sitemap: /blog/sitemap.xml
