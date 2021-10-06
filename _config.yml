@@ -10,11 +10,11 @@ title: gradsflow
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: gradsflow
 # you can comment the below line out if your repo name is not different than your baseurl
-# github_repo: "blog"
+github_repo: "blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://blog.gradsflow.com" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://blog.gradsflow.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
